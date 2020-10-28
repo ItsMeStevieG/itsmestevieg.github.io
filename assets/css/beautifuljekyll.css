@@ -143,10 +143,10 @@ img {
 
 .navbar-custom .navbar-brand {
   font-family: 'Pacifico', cursive;
-  line-height: 1.5;
-  padding-top: 0.625rem;
-  padding-bottom: 0.625rem;
-  font-size: 1.125rem;
+  line-height: 1.8;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  font-size: 1.8rem;
 }
 
 .navbar-custom .navbar-brand-logo {
