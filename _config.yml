@@ -45,10 +45,9 @@ social-network-links:
   github: itsmestevieg
   twitter: itsmesteviegee
 #  reddit: yourname
-  linkedin: itsmestevieg
+#  linkedin: itsmestevieg
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
+  stackoverflow: "4719346/stevie-g
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
@@ -72,7 +71,7 @@ rss-description: Technology /> Simplified
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: false
+  linkedin: true
   vk: false
 
 # How to display the link to your website in the footer
